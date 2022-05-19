@@ -158,3 +158,5 @@ Hellacious describes an awful experience and is often used to describe traffic, 
 # Fulminate (criticize severely)
 There are so many reasons which Indian Government is providing for the nation to fulminate.
 
+#Futile (incapable of producing any useful result)
+It’s futile trying to persuade him to change his mind.
